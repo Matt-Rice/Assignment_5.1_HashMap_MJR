@@ -14,7 +14,7 @@ public class Application  {
 		 
 		ArchaicWordDictionary archaicWords= new ArchaicWordDictionary();
 		
-		archaicWords.fillDictionary("C:/Users/mjric/JavaInputFiles/DictionaryWordValuePairs.txt");
+		archaicWords.fillDictionary("DictionaryWordValuePairs.txt");
 		
 		archaicWords.printDictionary();
 		
